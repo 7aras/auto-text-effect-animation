@@ -6,7 +6,7 @@ let careerIndex = 0;
 
 let characterIndex = 0;
 
-updateText() 
+updateText()  
 
 function updateText() {
     characterIndex++; 
